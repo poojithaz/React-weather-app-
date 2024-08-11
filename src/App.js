@@ -7,7 +7,7 @@ function App() {
   const [city, setCity] = useState('London');
   const [currentTime, setCurrentTime] = useState('');
 
-  const API_KEY = 'bcb91a0c9560c92ef03e8530f29df04b'; // Your actual API key
+  const API_KEY = ' Your API key'; 
 
   useEffect(() => {
     const fetchWeather = async () => { 
